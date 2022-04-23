@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ines Rojas</h1>
 <h3 align="center">A passionate Frontend Developer from Argentina</h3>
 
-<a href="https://app.daily.dev/InesR21"><img src="https://api.daily.dev/devcards/5792f3a544f147cab7d9aea121efa86e.png?r=jui" width="400" alt="Ines Nilda Rojas Caraballo's Dev Card"/></a>
+<a href="https://app.daily.dev/InesR21"><img src="https://api.daily.dev/devcards/5792f3a544f147cab7d9aea121efa86e.png?r=jui" width="200" align="right" alt="Ines Nilda Rojas Caraballo's Dev Card"/></a>
 
 
 - 🔭 I’m currently working on [Mobile Application for ICBC](https://play.google.com/store/apps/details?id=com.icbc.mobile.abroadARG)
