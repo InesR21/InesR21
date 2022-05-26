@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [Mobile Application for ICBC](https://play.google.com/store/apps/details?id=com.icbc.mobile.abroadARG)
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **React, Next.js, React native**
 
 - 👯 I’m looking to collaborate on **Frontends Projects**
 
-- 💬 Ask me about **Javascript, Angular, React Native...**
+- 💬 Ask me about **Javascript, Angular, React, tailwindcss, React Native...**
 
 - 📫 How to reach me **ines0263@hotmail.com**
 
