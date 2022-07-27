@@ -13,7 +13,6 @@ Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 ## 🛠️ Skills
 
-
 <a href="https://app.daily.dev/InesR21"><img src="https://api.daily.dev/devcards/5792f3a544f147cab7d9aea121efa86e.png?r=jui" width="250" align="right" alt="Ines Nilda Rojas Caraballo's Dev Card"/></a>
 
 ### Languages
