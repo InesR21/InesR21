@@ -2,7 +2,12 @@ Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 <br />
 
 ## 🚀 About Me
-🎓 I'm Ines Rojas, Front End Web Developer (specialized in React / Angular Applications). I am also a Systems Engineer and I graduated at the end of 2018.
+🎓 I'm a Systems Engineer and in my career I have dedicated myself to Web/Mobile FrontEnd Development mainly in React/Angular applications.
+
+I have experience working with agile methodologies and in high performance teams, always focused on results and product quality.
+
+JavaScript lover ❣️
+
 
 📚 I enjoy reading books about personal development and fantasy. My favorites are HP and GOT, but I also like to read a lot online at places like medium, dev.to, daily.dev.
 
