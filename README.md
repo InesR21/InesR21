@@ -41,7 +41,6 @@ JavaScript lover ❣️
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inesr21&show_icons=true&locale=en&layout=compact" alt="inesr21" /></p>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=inesR21&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=inesR21&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=inesR21&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
