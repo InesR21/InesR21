@@ -25,7 +25,7 @@ JavaScript lover ❣️
 
 ### My status
 
-- 🔭 I’m currently working on [Frontend Developer](https://www.flat.mx/)
+- 🔭 I’m currently working on [Frontend Developer](https://www.linkedin.com/company/pj-tech-by-drake/mycompany/)
 
 - 🌱 I’m currently learning **React, Next.js, React native, tailwind-css**
 
