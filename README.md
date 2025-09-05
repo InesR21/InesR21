@@ -25,7 +25,7 @@ JavaScript lover ❣️
 
 ### My status
 
-- 🔭 I’m currently working on [Frontend Developer](https://www.linkedin.com/company/pj-tech-by-drake/mycompany/)
+- 🔭 I’m currently working on [Frontend Developer](https://www.linkedin.com/company/personal-pay/posts/?feedView=all)
 
 - 🌱 I’m currently learning **React, Next.js, React native, tailwind-css**
 
@@ -40,9 +40,3 @@ JavaScript lover ❣️
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inesr21&show_icons=true&locale=en&layout=compact" alt="inesr21" /></p>
 
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=inesR21&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=inesR21&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=inesR21&icon=0&color=0)](https://visitcount.itsvg.in)
